@@ -1,2 +1,2 @@
 # Maze
-Maze Project (Python)
+Maze Project
