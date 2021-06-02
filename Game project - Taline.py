@@ -1,3 +1,5 @@
+#@author Taline Mkrtschjan
+
 import random                                                                           # To start my Game Project, I imported the "random" command.
 
 playerX = 2                                                                             # These are my coordinates (x and y) for the player. My map has a grid of (0, 4) and my player is in the middle of my map, hence, the coordinates are (2, 2).
